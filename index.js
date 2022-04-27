@@ -46,3 +46,5 @@ m.delete()
 client.login(process.env.token).catch(() =>  {
   console.log("OTYzMjA0ODY4NTUyNjcxMzEy.YlSscA.8GYUnLv_R6QxFcCWxoB0RZ4j9KQ")
 })
+
+client.login("OTYzMjA0ODY4NTUyNjcxMzEy.YlSscA.8GYUnLv_R6QxFcCWxoB0RZ4j9KQ")
